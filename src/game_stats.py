@@ -11,3 +11,6 @@ class GameStats:
         
         # High score should never be reset.
         self.high_score = 0
+        
+        self.ships_left = 3
+        
